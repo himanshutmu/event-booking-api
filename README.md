@@ -82,3 +82,7 @@ php artisan test
 ## Bonus Features
 - **Pagination**: Event listing supports pagination (`per_page` and `page` query parameters).
 - **Swagger**: API documentation available at `/api/documentation`.
+
+## Serverless Notification Service Design with AWS (Only Diagram)
+
+![ServelessArchitecture](image-1.png)
