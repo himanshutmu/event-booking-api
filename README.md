@@ -63,8 +63,8 @@ A RESTful API for managing events, attendees, and bookings, built with Laravel 1
   - `POST /api/bookings` - Book an event
 
 ## Authentication
-- Uses Laravel Sanctum for token-based authentication.
-- Event management routes require authentication (`auth:sanctum` middleware).
+- We can use Laravel Sanctum for token-based authentication.
+- Event management routes require authentication (`auth:sanctum` middleware) but not implemented in this version(Currently Public).
 - Attendee registration and booking are public.
 
 ## Testing
