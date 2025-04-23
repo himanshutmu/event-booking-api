@@ -18,7 +18,7 @@ A RESTful API for managing events, attendees, and bookings, built with Laravel 1
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/himanshutmu/event-booking-api.git
    cd event-booking-api
    ```
 
